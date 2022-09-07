@@ -1,5 +1,4 @@
 #!/bin/sh
-# Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
 
 #------------------#
 KULLANICI="devproxy"
